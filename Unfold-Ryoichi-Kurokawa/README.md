@@ -16,7 +16,7 @@ Download:
 [A short introduction to astronomical image processing](https://www.spacetelescope.org/projects/fits_liberator/improc/)
 
 
-###extras
-http://www.patatap.com/
-http://www.typatone.com/http://www.typatone.com/
-http://www.earslap.com/page/otomata.html
+###extras creative applications with sound
+* http://www.patatap.com/
+* http://www.typatone.com/http://www.typatone.com/
+* http://www.earslap.com/page/otomata.html
