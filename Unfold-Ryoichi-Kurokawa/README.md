@@ -3,13 +3,17 @@
 
 
 Download:
-* FITS Liberator APP https://www.spacetelescope.org/projects/fits_liberator/download_v301/ or [here](Unfold-Ryoichi-Kurokawa/Creative-Coding-Workshop/FITS-Application-OSX)
+* FITS Liberator APP https://www.spacetelescope.org/projects/fits_liberator/download_v301/ or [here](Creative-Coding-Workshop/FITS-Application-OSX)
 * Processing IDE - Creative Coding tool https://processing.org/download/?processig
-* Processing Sketch Data [here](Unfold-Ryoichi-Kurokawa/Creative-Coding-Workshop/Processing-Sketchs/)
+* Processing Sketch Data [here](Creative-Coding-Workshop/Processing-Sketchs/)
 * FITS Data from [NASA](http://www.spacetelescope.org/projects/fits_liberator/datasets_archives/)
 
+###From Ryoichi-Kurokawa
+[Manuals from Ryoichi Kurokawa Installation](Creative-Coding-Workshop/RK-Coding-Data/manuals)
+
+
 ###Useful links
-https://www.spacetelescope.org/projects/fits_liberator/improc/
+[A short introduction to astronomical image processing](https://www.spacetelescope.org/projects/fits_liberator/improc/)
 
 
 ###extras
