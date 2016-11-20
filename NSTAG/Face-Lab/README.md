@@ -8,11 +8,20 @@ Inspired by [Gina Czarnecki & John Hunt](http://www.fact.co.uk/projects/no-such-
 * Skanect Software http://skanect.occipital.com/
 
 
-##Tutorial
+##Scanning using **Skanect**
+###Overview
+  <img src="imgs/scan-step.gif"/>
 
-####Step 1
+###Step by step
 
-####Step 2
-<p align="center">
-  <img src="imgs/scan-step.gif" width="400"/>
-</p>
+
+  <img src="imgs/step1.png"/>
+  <img src="imgs/step2.png"/>
+  <img src="imgs/step3.png"/>
+  <img src="imgs/step4.png"/>
+  <img src="imgs/step5.png"/>
+  <img src="imgs/step6.png"/>
+  <img src="imgs/step7.png"/>
+  <img src="imgs/step8.png"/>
+
+
