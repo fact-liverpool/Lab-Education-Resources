@@ -5,5 +5,5 @@ You will need:
 
 
 <p align="center">
-  <img src="./imgs/robot-s.jpg" width="400"/>
+  <img src="../imgs/robot-s.jpg" width="400"/>
 </p>
