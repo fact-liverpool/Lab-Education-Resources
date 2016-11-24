@@ -7,3 +7,7 @@ You will need:
 <p align="center">
   <img src="../imgs/robot-s.jpg" width="400"/>
 </p>
+
+<p align="center">
+  <img src="../imgs/servo_pin_9_arduino.png" width="400"/>
+</p>
