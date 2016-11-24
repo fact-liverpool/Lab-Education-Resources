@@ -8,11 +8,28 @@ Inspired by [Gina Czarnecki & John Hunt](http://www.fact.co.uk/projects/no-such-
 * Skanect Software http://skanect.occipital.com/
 
 
-##Tutorial
+##Scanning using **Skanect**
+###Overview
+  <img src="imgs/scan-step.gif"/>
 
-####Step 1
+###Visual Step by step
 
-####Step 2
-<p align="center">
-  <img src="imgs/scan-step.gif" width="400"/>
-</p>
+* Make sure the __Freenect Sensor__ icons is green
+
+  <img src="imgs/step1.png"/>
+  <img src="imgs/step2.png"/>
+
+* When the image shows black it means that the sensor is close to the target
+
+<img src="imgs/step3.png"/>
+  <img src="imgs/step4.png"/>
+
+* The red color means that the sensor is in a good position
+
+  <img src="imgs/step5.png"/>
+  <img src="imgs/step6.png"/>
+  <img src="imgs/step7.png"/>
+  <img src="imgs/step8.png"/>
+  <img src="imgs/step9.png"/>
+  <img src="imgs/step10.png"/>
+  <img src="imgs/step11.png"/>
