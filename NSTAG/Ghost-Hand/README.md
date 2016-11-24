@@ -1,5 +1,8 @@
 ##Ghost hand - Rubber hand Illusion Experiment
 
+<p align="center">
+  <img src="p1.jpg" width="400px"/>
+</p>
 
 ###References
 * [The rubber hand illusion](https://www.youtube.com/watch?v=sxwn1w7MJvk)
